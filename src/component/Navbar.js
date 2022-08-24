@@ -31,7 +31,7 @@ const Navbar = () => {
                     <img src={logo} alt="" className='navbar_img' />
                 </div>
                 <div className="container2">
-                    <h2 className='brand_name'>SAVITRI TRADE</h2>
+                    <h2 className='brand_name'>SAVITRI </h2>
                 </div>
                 <div className="container3">
                     <a href="/" className='navbar_item'><h2>Home </h2></a>

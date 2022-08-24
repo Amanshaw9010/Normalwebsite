@@ -1,0 +1,79 @@
+.main {
+    /* height: 100%; */
+    width: 100vw;
+    height: 100vh;
+}
+
+.bg3 {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    z-index: -1;
+}
+
+.one_cont {
+    position: absolute;
+    margin: 100px 0px 0px 80px;
+    background-color: white;
+    border-radius: 25px;
+    border-bottom-right-radius: 0;
+    width: 24vw;
+    height: 33vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.two_cont {
+    position: absolute;
+    margin: 100px 0px 0px 490px;
+    background-color: white;
+    border-radius: 25px;
+    border-bottom-left-radius: 0;
+    width: 24vw;
+    height: 33vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.three_cont {
+    position: absolute;
+    margin: 390px 0px 0px 80px;
+    background-color: white;
+    border-radius: 25px;
+    border-top-right-radius: 0;
+    width: 24vw;
+    height: 33vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.four_cont {
+    position: absolute;
+    margin: 390px 0px 0px 490px;
+    background-color: white;
+    border-radius: 25px;
+    border-top-left-radius: 0;
+    width: 24vw;
+    height: 33vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.containerpic1 {
+    width: 70px;
+}
+.containerpic4{
+    width: 150px;
+}
+.cont_para{
+    text-align: center;
+}
